@@ -16,10 +16,12 @@ Utilizando o PostgreSQL para construção, carregamento e análise dos dados.
 
 ## 2. METODOLOGIAS ÁGEIS
 
-Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello](https://trello.com/b/yLjzU1Dh/projeto-sql-ada). Utilizado para manter o projeto organizado,
+Para este projeto foi utilizada a ferramenta de gestão de projetos Trello. Utilizado para manter o projeto organizado,
 facilitar a colaboração entre os membros da equipe e garantir que o projeto seja concluído dentro do prazo estabelecido.
 
 ![image](images/trello.png)
+
+Fonte: [Trello - Projeto SQL ADA](https://trello.com/b/yLjzU1Dh/projeto-sql-ada)
 
 ## 3. BASE DE DADOS
 Essa base de dados apresenta dados de vendas da **Zoop Megastore** no período de 01/2020 a 10/2023. 
