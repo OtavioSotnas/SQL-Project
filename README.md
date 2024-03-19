@@ -1,4 +1,4 @@
-# Banco de Dados I
+# Análise Exploratória de Dados
 
 - Projeto: EDA (Análise Exploratória de Dados) em Banco de Dados PostgreSQL
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
